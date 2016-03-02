@@ -1,0 +1,7 @@
+STATE	State
+ZONE	Zone
+SECTOR	Sector
+AC	Assembly Constituency
+WARD	Ward
+PX	Polling Center
+PB	Polling Booth
